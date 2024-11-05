@@ -3,8 +3,16 @@ body{
     background: turquoise;
     font-family: "Pacifico", cursive;
     margin: 0px;
-    margin-bottom: : 1000px;
+    margin-bottom: 1000px;
 }
 .chamada{
-    background: rgb(10, 256, 26)
+    background: whitesmoke;
+    margin-top : 80px;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+header{
+    color: red;
+    
 }
