@@ -14,5 +14,8 @@ body{
 }
 header{
     color: red;
-    
+    font-size: 40px;
+    border-bottom: solid 3px crimson;
+    padding: 20px;
+
 }
