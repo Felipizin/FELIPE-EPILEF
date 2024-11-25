@@ -1,6 +1,6 @@
 body{
     color: black;
-    background: turquoise;
+    background: slategray;
     font-family: "Pacifico", cursive;
     margin: 0px;
     margin-bottom: 1000px;
@@ -13,7 +13,7 @@ body{
     justify-content: center;
 }
 header{
-    color: red;
+    color: slateblue;
     font-size: 40px;
     border-bottom: solid 3px crimson;
     padding: 20px;
